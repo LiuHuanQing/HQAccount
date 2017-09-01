@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "ssh://git@git.solot.co:10022/liuhuanqing/HQMacro.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/LiuHuanQing/HQAccount.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
